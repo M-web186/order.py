@@ -15,11 +15,11 @@ from order import OrderManager
 om = OrderManager()
 om.add_order("Order001", "ProductA", 2)
 
-## Run
+Run
 bash
 python main.py
 
-## License
+License
 MIT
 
 
